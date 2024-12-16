@@ -1,8 +1,8 @@
 # Wateen Sadek's Portfolio 
 
-My coding portfolio :grin:
+My coding portfolio
 
-Welcome to my portfolio! Learning a thing or two here :space_invader:
+Welcome to my portfolio! Learning a thing or two here 
 
 Email me for any questions/inquiries:
 [wt380933@dal.ca](mailto:wt380933@dal.ca)
