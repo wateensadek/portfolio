@@ -1,8 +1,3 @@
----
-layout: page
-title: "My Project"
-permalink: /my-project/
----
 
 ```
 # Topic 1: Working with pandas DataFrames
